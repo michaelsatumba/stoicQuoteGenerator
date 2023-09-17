@@ -1,7 +1,6 @@
 /* Reset some default browser styles */
 body, h1, p {
   margin: 0;
-  padding: 0;
 }
 
 /* Make a background color */
