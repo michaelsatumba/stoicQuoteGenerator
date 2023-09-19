@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "short_name": "Hello",
+    "name": "Stoic",
+    "short_name": "Stoic",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#fff"
