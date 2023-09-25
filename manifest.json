@@ -3,6 +3,13 @@
     "short_name": "Stoic",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#fff"
+    "background_color": "#fff",
+    "icons": [
+      {
+        "src": "S.webp",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ]
   }
   
