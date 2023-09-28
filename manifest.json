@@ -6,8 +6,8 @@
     "background_color": "#fff",
     "icons": [
       {
-        "src": "S.webp",
-        "sizes": "5x5",
+        "src": "S.jpg",
+        "sizes": "36x36",
         "type": "image/webp"
       }
     ]
